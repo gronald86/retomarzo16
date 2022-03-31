@@ -1,0 +1,48 @@
+*{
+
+    margin: 0.02cm;
+    padding: 0.1;
+
+}
+
+
+a{
+
+    text-decoration: none;
+    text-align: center;
+}
+
+.fondoF{
+
+    background-color: rgb(236, 241, 253);
+    opacity: 0,8;
+}
+
+ul{
+
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.EleCenter{
+
+    object-position: center;
+
+}
+
+.headlines{
+
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    text-align: center;
+
+}
+
+.Crimsom{
+
+    text-decoration-color: crimson;
+
+}
